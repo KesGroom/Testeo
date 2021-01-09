@@ -48,6 +48,9 @@
                 <h1> Hola mundo, soy Kevin, y quiero Otro Kevin</h1>
                 <p>Texto</p>
 
+                <h1> Hola mundo, soy , y quiero </h1>
+                <p>Texto</p>
+
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
